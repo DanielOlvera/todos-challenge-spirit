@@ -1,6 +1,6 @@
 package com.danielolvera.spritichallenge.state
 
-import com.danielolvera.spritichallenge.model.TodosData
+import com.danielolvera.spritichallenge.model.data.TodosData
 
 sealed class TodoState {
     data object  Loading: TodoState()

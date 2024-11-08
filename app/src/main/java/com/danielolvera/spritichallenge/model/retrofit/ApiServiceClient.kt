@@ -1,4 +1,4 @@
-package com.danielolvera.spritichallenge.model
+package com.danielolvera.spritichallenge.model.retrofit
 
 import retrofit2.Retrofit
 import retrofit2.converter.gson.GsonConverterFactory

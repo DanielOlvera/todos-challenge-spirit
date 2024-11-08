@@ -1,6 +1,6 @@
 package com.danielolvera.spritichallenge.repo
 
-import com.danielolvera.spritichallenge.model.ApiClient
+import com.danielolvera.spritichallenge.model.retrofit.ApiClient
 import com.danielolvera.spritichallenge.state.TodoState
 import kotlinx.coroutines.flow.Flow
 import kotlinx.coroutines.flow.flow

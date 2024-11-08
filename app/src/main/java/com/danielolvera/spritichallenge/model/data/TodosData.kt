@@ -1,4 +1,4 @@
-package com.danielolvera.spritichallenge.model
+package com.danielolvera.spritichallenge.model.data
 
 data class TodosData(
     val userId: Int,
